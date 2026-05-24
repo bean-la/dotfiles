@@ -1,4 +1,4 @@
-black       = '#2e3440';
+black       = '#3b4252';
 red         = '#bf616a';
 green       = '#a3be8c';
 yellow      = '#ebcb8b';
@@ -6,7 +6,7 @@ blue        = '#81a1c1';
 magenta     = '#b48ead';
 cyan        = '#88c0d0';
 white       = '#d8dee9';
-lightBlack  = '#4c566a';
+lightBlack  = '#616e88';
 lightRed    = '#bf616a';
 lightGreen  = '#a3be8c';
 lightYellow = '#ebcb8b';
